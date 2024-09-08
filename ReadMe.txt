@@ -6,7 +6,7 @@ Experiment5 = SEIR5.py + prompts1.py + others
 
 
 
-Require 32GB RAM for running
+Require 32GB RAM for run
 
 Before Simulation:
 Download and install Ollama from https://ollama.com/
