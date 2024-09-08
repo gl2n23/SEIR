@@ -1,7 +1,5 @@
 import random
 
-random.seed(37)
-
 
 agent_counts = [70, 70, 10, 150, 75, 25, 50, 50]
 occupations = ['primary school student', 'high school student', 'medical worker', 'office worker', 'commercial area worker', 'entertainment area worker', 'old person', 'unemployed person']
